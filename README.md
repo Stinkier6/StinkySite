@@ -1,0 +1,2 @@
+# StinkySite
+Just a site
